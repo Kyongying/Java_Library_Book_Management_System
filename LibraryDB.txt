@@ -1,0 +1,59 @@
+1;Harry Potter;J.K.Rowling;Fantasy
+2;War and Peace;Leo Tolstoy;Novel
+3;The Malay Annals;Sulalatus Salantin;Others
+4;1984;George Orwell;Fiction
+5;The Hobbit;J.R.R. Tolkien;Fantasy
+7;Pride and Prejudice;Jane Austen;Novel
+8;The Great Gatsby;F. Scott Fitzgerald;Fiction
+9;Moby Dick;Herman Melville;Novel
+10;The Catcher in the Rye;J.D. Salinger;Fiction
+11;The Lord of the Rings;J.R.R. Tolkien;Fantasy
+12;Animal Farm;George Orwell;Fiction
+13;Jane Eyre;Charlotte Brontë;Novel
+14;Brave New World;Aldous Huxley;Fiction
+15;The Chronicles of Narnia;C.S. Lewis;Fantasy
+16;The Da Vinci Code;Dan Brown;Mystery
+17;The Alchemist;Paulo Coelho;Novel
+18;Crime and Punishment;Fyodor Dostoevsky;Novel
+19;The Kite Runner;Khaled Hosseini;Fiction
+20;Wuthering Heights;Emily Brontë;Novel
+21;The Hunger Games;Suzanne Collins;Fantasy
+22;Fahrenheit 451;Ray Bradbury;Fiction
+23;The Book Thief;Markus Zusak;Fiction
+24;Life of Pi;Yann Martel;Novel
+25;The Odyssey;Homer;Others
+26;The Iliad;Homer;Others
+27;Dracula;Bram Stoker;Fantasy
+28;The Shining;Stephen King;Horror
+29;It;Stephen King;Horror
+30;The Fault in Our Stars;John Green;Fiction
+31;The Little Prince;Antoine de Saint-Exupéry;Others
+32;The Girl with the Dragon Tattoo;Stieg Larsson;Mystery
+33;The Giver;Lois Lowry;Fiction
+34;Percy Jackson & The Olympians;Rick Riordan;Fantasy
+35;The Maze Runner;James Dashner;Fantasy
+36;Dune;Frank Herbert;Science Fiction
+37;The Time Machine;H.G. Wells;Science Fiction
+38;The Handmaid's Tale;Margaret Atwood;Fiction
+39;The Old Man and the Sea;Ernest Hemingway;Novel
+40;The Scarlet Letter;Nathaniel Hawthorne;Novel
+41;Les Misérables;Victor Hugo;Novel
+42;Don Quixote;Miguel de Cervantes;Novel
+43;The Picture of Dorian Gray;Oscar Wilde;Fiction
+44;The Adventures of Sherlock Holmes;Arthur Conan Doyle;Mystery
+45;Frankenstein;Mary Shelley;Horror
+46;A Tale of Two Cities;Charles Dickens;Novel
+47;The Count of Monte Cristo;Alexandre Dumas;Novel
+48;The Call of the Wild;Jack London;Fiction
+49;The Secret Garden;Frances Hodgson Burnett;Novel
+50;Little Women;Louisa May Alcott;Novel
+51;The Road;Cormac McCarthy;Fiction
+52;Slaughterhouse-Five;Kurt Vonnegut;Science Fiction
+53;The Name of the Wind;Patrick Rothfuss;Fantasy
+54;The Twilight Saga;Stephenie Meyer;Fantasy
+55;The Stand;Stephen King;Horror
+56;The Martian;Andy Weir;Science Fiction
+57;The Silent Patient;Alex Michaelides;Mystery
+58;Gone Girl;Gillian Flynn;Mystery
+59;The Hunger Games: Catching Fire;Suzanne Collins;Fantasy
+60;The Hunger Games: Mockingjay;Suzanne Collins;Fantasy
